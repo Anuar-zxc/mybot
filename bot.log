@@ -1,0 +1,124 @@
+2025-10-06 10:39:16,519 - INFO - Starting bot with aiogram version 3.22.0
+2025-10-06 10:47:12,581 - INFO - Starting bot with aiogram version 3.22.0
+2025-10-06 10:49:30,606 - INFO - Starting bot with aiogram version 3.22.0
+2025-10-06 10:52:06,616 - INFO - Starting bot with aiogram version 3.22.0
+2025-10-06 10:54:48,958 - INFO - Starting bot with aiogram version 3.22.0
+2025-10-06 10:54:50,122 - ERROR - API error: 404 Client Error: Not Found for url: https://api.football-data.org/v2/competitions/CL/matches?status=FINISHED&season=2024
+2025-10-06 10:54:50,124 - ERROR - Main loop error: type object 'FSMStrategy' has no attribute 'USER'
+2025-10-06 10:54:50,125 - INFO - SQLite connection closed
+2025-10-06 10:54:52,468 - INFO - Starting bot with aiogram version 3.22.0
+2025-10-06 10:54:53,044 - ERROR - API error: 404 Client Error: Not Found for url: https://api.football-data.org/v2/competitions/CL/matches?status=FINISHED&season=2024
+2025-10-06 10:54:53,046 - ERROR - Main loop error: type object 'FSMStrategy' has no attribute 'USER'
+2025-10-06 10:54:53,047 - INFO - SQLite connection closed
+2025-10-06 10:54:59,527 - INFO - Starting bot with aiogram version 3.22.0
+2025-10-06 10:55:00,164 - ERROR - API error: 404 Client Error: Not Found for url: https://api.football-data.org/v2/competitions/CL/matches?status=FINISHED&season=2024
+2025-10-06 10:55:00,165 - ERROR - Main loop error: type object 'FSMStrategy' has no attribute 'USER'
+2025-10-06 10:55:00,166 - INFO - SQLite connection closed
+2025-10-06 10:56:06,179 - INFO - Starting bot with aiogram version 3.22.0
+2025-10-06 10:56:06,760 - ERROR - API error: 404 Client Error: Not Found for url: https://api.football-data.org/v2/competitions/CL/matches?status=FINISHED&season=2024
+2025-10-06 10:56:06,761 - ERROR - Main loop error: type object 'FSMStrategy' has no attribute 'USER'
+2025-10-06 10:56:06,762 - INFO - SQLite connection closed
+2025-10-06 10:57:33,302 - INFO - Starting bot with aiogram version 3.22.0
+2025-10-06 10:57:33,937 - ERROR - API error: 404 Client Error: Not Found for url: https://api.football-data.org/v2/competitions/CL/matches?status=FINISHED&season=2024
+2025-10-06 10:57:33,939 - ERROR - Main loop error: type object 'FSMStrategy' has no attribute 'USER'
+2025-10-06 10:57:33,940 - INFO - SQLite connection closed
+2025-10-06 10:58:13,148 - INFO - Starting bot with aiogram version 3.22.0
+2025-10-06 10:58:13,726 - ERROR - API error: 404 Client Error: Not Found for url: https://api.football-data.org/v2/competitions/CL/matches?status=FINISHED&season=2024
+2025-10-06 10:58:13,728 - ERROR - Main loop error: type object 'FSMStrategy' has no attribute 'USER'
+2025-10-06 10:58:13,728 - INFO - SQLite connection closed
+2025-10-06 11:15:39,646 - ERROR - API error: 404 Client Error: Not Found for url: https://api.football-data.org/v2/competitions/CL/matches?status=FINISHED&season=2024
+2025-10-06 11:15:42,822 - ERROR - API error: 404 Client Error: Not Found for url: https://api.football-data.org/v2/competitions/CL/matches?status=FINISHED&season=2024
+2025-10-06 11:15:46,030 - ERROR - API error: 404 Client Error: Not Found for url: https://api.football-data.org/v2/competitions/CL/matches?status=FINISHED&season=2024
+2025-10-06 11:17:51,696 - ERROR - API error: 404 Client Error: Not Found for url: https://api.football-data.org/v2/competitions/CL/matches?status=FINISHED&season=2024
+2025-10-06 11:17:51,700 - INFO - Start polling
+2025-10-06 11:17:52,455 - INFO - Run polling for bot @predictMYv1_bot id=8141508085 - 'AW'
+2025-10-06 11:17:53,184 - INFO - Update id=876542616 is handled. Duration 561 ms by bot id=8141508085
+2025-10-06 11:17:53,194 - INFO - Update id=876542618 is handled. Duration 570 ms by bot id=8141508085
+2025-10-06 11:17:53,208 - INFO - Update id=876542617 is handled. Duration 584 ms by bot id=8141508085
+2025-10-06 11:17:53,234 - INFO - Update id=876542615 is handled. Duration 613 ms by bot id=8141508085
+2025-10-06 11:17:53,280 - INFO - Update id=876542621 is handled. Duration 652 ms by bot id=8141508085
+2025-10-06 11:17:53,281 - INFO - Update id=876542620 is handled. Duration 654 ms by bot id=8141508085
+2025-10-06 11:17:53,312 - INFO - Update id=876542619 is handled. Duration 685 ms by bot id=8141508085
+2025-10-06 11:17:58,843 - INFO - Update id=876542622 is handled. Duration 237 ms by bot id=8141508085
+2025-10-06 11:18:01,262 - INFO - Update id=876542623 is handled. Duration 284 ms by bot id=8141508085
+2025-10-06 11:18:05,045 - INFO - Update id=876542624 is handled. Duration 297 ms by bot id=8141508085
+2025-10-06 11:18:07,643 - ERROR - Player stats error: 404 Client Error: Not Found for url: https://api.football-data.org/v2/competitions/CL/scorers?season=2024
+2025-10-06 11:18:07,892 - INFO - Update id=876542625 is handled. Duration 1179 ms by bot id=8141508085
+2025-10-06 11:21:19,660 - INFO - Update id=876542626 is handled. Duration 203 ms by bot id=8141508085
+2025-10-06 11:22:11,871 - INFO - Update id=876542627 is handled. Duration 207 ms by bot id=8141508085
+2025-10-06 11:41:26,048 - INFO - Start polling
+2025-10-06 11:41:26,776 - INFO - Run polling for bot @predictMYv1_bot id=8141508085 - 'AW'
+2025-10-06 11:41:33,050 - INFO - Update id=876542644 is handled. Duration 515 ms by bot id=8141508085
+2025-10-06 11:41:36,570 - INFO - Update id=876542645 is handled. Duration 354 ms by bot id=8141508085
+2025-10-06 11:42:00,496 - INFO - Update id=876542646 is not handled. Duration 12 ms by bot id=8141508085
+2025-10-06 11:42:00,497 - ERROR - Cause exception while process update id=876542646 by bot id=8141508085
+ValueError: y contains previously unseen labels: 'Portsmouth'
+Traceback (most recent call last):
+  File "/Users/anuaralimzhan/Desktop/tg_project_for_cair/myenv/lib/python3.13/site-packages/sklearn/utils/_encode.py", line 235, in _encode
+    return _map_to_integer(values, uniques)
+  File "/Users/anuaralimzhan/Desktop/tg_project_for_cair/myenv/lib/python3.13/site-packages/sklearn/utils/_encode.py", line 174, in _map_to_integer
+    return xp.asarray([table[v] for v in values], device=device(values))
+                       ~~~~~^^^
+  File "/Users/anuaralimzhan/Desktop/tg_project_for_cair/myenv/lib/python3.13/site-packages/sklearn/utils/_encode.py", line 167, in __missing__
+    raise KeyError(key)
+KeyError: 'Portsmouth'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/anuaralimzhan/Desktop/tg_project_for_cair/myenv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/anuaralimzhan/Desktop/tg_project_for_cair/myenv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "/Users/anuaralimzhan/Desktop/tg_project_for_cair/myenv/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/anuaralimzhan/Desktop/tg_project_for_cair/myenv/lib/python3.13/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/anuaralimzhan/Desktop/tg_project_for_cair/myenv/lib/python3.13/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/anuaralimzhan/Desktop/tg_project_for_cair/myenv/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/anuaralimzhan/Desktop/tg_project_for_cair/myenv/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/anuaralimzhan/Desktop/tg_project_for_cair/myenv/lib/python3.13/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/anuaralimzhan/Desktop/tg_project_for_cair/myenv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/anuaralimzhan/Desktop/tg_project_for_cair/myenv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        observer=observer, update_type=update_type, event=telegram_event, **data
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/anuaralimzhan/Desktop/tg_project_for_cair/myenv/lib/python3.13/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/anuaralimzhan/Desktop/tg_project_for_cair/myenv/lib/python3.13/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/anuaralimzhan/Desktop/tg_project_for_cair/myenv/lib/python3.13/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/anuaralimzhan/Desktop/tg_project_for_cair/bot3.py", line 97, in handle_message
+    df["away_team_enc"] = le.transform(df["away_team"])
+                          ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/Users/anuaralimzhan/Desktop/tg_project_for_cair/myenv/lib/python3.13/site-packages/sklearn/preprocessing/_label.py", line 134, in transform
+    return _encode(y, uniques=self.classes_)
+  File "/Users/anuaralimzhan/Desktop/tg_project_for_cair/myenv/lib/python3.13/site-packages/sklearn/utils/_encode.py", line 237, in _encode
+    raise ValueError(f"y contains previously unseen labels: {e}")
+ValueError: y contains previously unseen labels: 'Portsmouth'
+2025-10-06 11:42:07,178 - INFO - Update id=876542647 is handled. Duration 227 ms by bot id=8141508085
+2025-10-06 11:42:11,788 - INFO - Update id=876542648 is handled. Duration 210 ms by bot id=8141508085
