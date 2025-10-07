@@ -15,7 +15,7 @@ from datetime import datetime
 logging.basicConfig(level=logging.INFO)
 
 # Инициализация бота и диспетчера
-API_TOKEN = "8141508085:AAGvUM92ApTNpJHW_YNcyJlvYuk5jUCDsLU"
+API_TOKEN = YOUR_TOKEN
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
 
