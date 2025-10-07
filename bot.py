@@ -4,7 +4,7 @@ from aiogram.filters.command import Command
 from sklearn.linear_model import LogisticRegression
 import numpy as np
 
-API_TOKEN = "8141508085:AAGvUM92ApTNpJHW_YNcyJlvYuk5jUCDsLU"
+API_TOKEN = YOUR_TOKEN
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
