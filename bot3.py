@@ -10,7 +10,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from sklearn.linear_model import LogisticRegression
 from sklearn.preprocessing import LabelEncoder
 
-TELEGRAM_TOKEN = "8141508085:AAGvUM92ApTNpJHW_YNcyJlvYuk5jUCDsLU"
+TELEGRAM_TOKEN = YOUR_TOKEN
 DB_PATH = "premier_league_2008_2009.db"
 CSV_URL = "https://www.football-data.co.uk/mmz4281/0809/E0.csv"
 
